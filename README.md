@@ -1,4 +1,4 @@
-# Lightnin_MisQueen
+# Lightning_MisQueen
 Tugas Besar I IF2211 Strategi Algoritma Semester II Tahun 2021/2022 Pemanfaatan Algoritma Greedy dalam Aplikasi Permainan “Overdrive”
 
 ## Penjelasan Singkat Algoritma Greedy yang Diimplementasikan
@@ -21,7 +21,7 @@ Algoritma Greedy ini memiliki tingkata prioritas. Prioritasnya secara garis besa
 - Buka file game-runner-config.json
 - Pada file game-runner-config.json, ubah value pada key "player-a" dari "./starter-bots/javascript" menjadi "./starter-bots/java"
 - Simpan perubahan dan tutup file game-runner-config.json
-- Masuk ke folder/direktoi starter-bots
+- Masuk ke folder/direktori starter-bots
 - Masuk ke folder/direktori java
 - Hapus semua file dan folder/direktori yang berada di dalam folder/direktori java
 - <i>Copy<i> semua file dan folder/direktori yang berada dalam folder/direktori src pada repository ini, lalu <i>paste<i> ke dalam folder/direktori java
